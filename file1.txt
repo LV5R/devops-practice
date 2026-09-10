@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Trunk ver of the file
+=======
+Feature-x version of the file
+>>>>>>> feature-x
